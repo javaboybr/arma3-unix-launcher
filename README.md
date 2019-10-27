@@ -50,8 +50,7 @@ Binary package is currently unavailable. Please build from source or use [instal
 Gtkmm3 is required
 
 #### Debian package
-    apt-get install libgtkmm-3.0-1v5
-    apt-get install libgtkmm-3.0-dev
+    apt-get install libgtkmm-3.0-dev libgtkmm-3.0-1v5 build-essential make cmake
 
 #### Arch Linux
     pacman -S gtkmm3
